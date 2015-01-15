@@ -73,8 +73,8 @@ db.get({
 #### 环境配置
 
 * 应用使用80端口启动
-* 绑定eureka.taobao.net 到本地
-* 绑定10.20.159.92 login-test.alibaba-inc.com
+* 绑定eureka.txxxxx.net 到本地
+* 绑定10.20.159.92 login-test.axxxxxx-xxx.com
 
 #### 用户信息获取
 
