@@ -1,13 +1,13 @@
 /*
  * @name: nobuc.js
- * @description: 
+ * @description:
  *      just a expressjs middleware
- *      http://docs.alibaba-inc.com/pages/viewpage.action?pageId=98078830
+ *      http://docs.a******-inc.com/pages/viewpage.action?pageId=98078830
  * @author: wondger@gmail.com
  * @date: 2013-04-26
- * @param: 
- * @todo: 
- * @changelog: 
+ * @param:
+ * @todo:
+ * @changelog:
  */
 var https = require("https");
 

@@ -1,11 +1,11 @@
 /*
  * @name: list.js
- * @description: 
- * @author: wondger@gmail.com, shuier.zd@taobao.com
+ * @description:
+ * @author: wondger@gmail.com, shuier.zd@t*****.com
  * @date: 2013-04-03
- * @param: 
- * @todo: 
- * @changelog: 
+ * @param:
+ * @todo:
+ * @changelog:
  */
 KISSY.add("party/list", function (S, UA, Ajax, XTemplate, Uri, DragSwitch, Cookie) {
     var D = S.DOM, E = S.Event, $ = S.all;
@@ -168,7 +168,7 @@ KISSY.add("party/list", function (S, UA, Ajax, XTemplate, Uri, DragSwitch, Cooki
                 }
             });
 
-            
+
 
             E.delegate('body', 'tap click', '.icon-push', function (ev) {
                 //session id
@@ -377,7 +377,7 @@ KISSY.add("party/list", function (S, UA, Ajax, XTemplate, Uri, DragSwitch, Cooki
 
 
             // E.delegate('.session-list-box', "click", ".J_SessionOpts", function(e){
-            //     if(touchIsMove) 
+            //     if(touchIsMove)
             //         e.halt();
             //     else
             //         var t = e.currentTarget;

@@ -40,7 +40,7 @@ app.configure(function(){
     if (app.get("port") === 80) {
         // auth
         app.use(nobuc(/.*/, {
-            hostname: app.get("env") === "development" ? "login-test.alibaba-inc.com" : "login.alibaba-inc.com",
+            hostname: app.get("env") === "development" ? "login-test.a******-inc.com" : "login.a******-inc.com",
             appname: "eureka"
         }));
 
@@ -52,7 +52,7 @@ app.configure(function(){
         app.use(function(req, res, next){
             req.user = {
                 _id: "testid",
-                name: "testid@taobao.com",
+                name: "testid@t*****.com",
                 nick: "test"
             };
             next();

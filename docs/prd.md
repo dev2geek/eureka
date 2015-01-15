@@ -64,14 +64,14 @@ Eureka从淘宝著名的前端分享会懒懒交流会的使用场景出发，�
 
 - 原型设计
   - 分享会创建
-  ![分享会创建](http://img04.taobaocdn.com/tps/i4/T1bKXYXtdcXXX9nug_-2553-1563.png)
+  ![分享会创建](http://img04.t*****cdn.com/tps/i4/T1bKXYXtdcXXX9nug_-2553-1563.png)
   - 分享会管理
-  ![分享会管理](http://img01.taobaocdn.com/tps/i1/T1jkVZXw8aXXbmHVZD-2021-1567.png)
+  ![分享会管理](http://img01.t*****cdn.com/tps/i1/T1jkVZXw8aXXbmHVZD-2021-1567.png)
   - 反馈
-  ![反馈](http://img03.taobaocdn.com/tps/i3/T1I4xYXwVcXXbhs_7e-1898-1590.png)
+  ![反馈](http://img03.t*****cdn.com/tps/i3/T1I4xYXwVcXXbhs_7e-1898-1590.png)
 
 - 数据库设计
-  ![数据库设计](http://img02.taobaocdn.com/tps/i2/T1iZN0XBRXXXaKz9LG-789-497.png)
+  ![数据库设计](http://img02.t*****cdn.com/tps/i2/T1iZN0XBRXXXaKz9LG-789-497.png)
 
 ### 功能详情
 
@@ -305,7 +305,7 @@ Eureka从淘宝著名的前端分享会懒懒交流会的使用场景出发，�
    
 * 流程描述 （最好包含主干、分支、异常三种，尽量用流程图描述）
 
-   ![分享列表流程描述](http://img01.taobaocdn.com/tps/i1/T1KNJTXr4bXXXOMBb_-837-615.jpg)
+   ![分享列表流程描述](http://img01.t*****cdn.com/tps/i1/T1KNJTXr4bXXXOMBb_-837-615.jpg)
    
 * 其他说明
 
@@ -335,7 +335,7 @@ Eureka从淘宝著名的前端分享会懒懒交流会的使用场景出发，�
    
 * 流程描述
 
-   ![分享具体信息](http://img04.taobaocdn.com/tps/i4/T1fZ8TXp0cXXc0cU6q-601-411.jpg)
+   ![分享具体信息](http://img04.t*****cdn.com/tps/i4/T1fZ8TXp0cXXc0cU6q-601-411.jpg)
    
 * 其他说明
 
